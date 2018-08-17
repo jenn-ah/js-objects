@@ -62,6 +62,15 @@ console.log("My dog " + dog.name + " is " + dog.age + " years old and likes to "
   Console.log the object.
 */
 
+var kicks = {};
+
+kicks.brand = 'Converse';
+kicks.color = 'cornflower blue';
+kicks.size = 11;
+kicks.price = 60;
+kicks.buy = "Now I is a cool kid!" //tricky tricky, use function
+
+console.log(kicks);
 
 /* 
 
